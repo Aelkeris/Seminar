@@ -1,0 +1,6 @@
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezba\bin\Debug\KosaricaVjezba.exe.config
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezba\bin\Debug\KosaricaVjezba.exe
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezba\bin\Debug\KosaricaVjezba.pdb
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezba\obj\Debug\KosaricaVjezba.csprojResolveAssemblyReference.cache
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezba\obj\Debug\KosaricaVjezba.exe
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezba\obj\Debug\KosaricaVjezba.pdb

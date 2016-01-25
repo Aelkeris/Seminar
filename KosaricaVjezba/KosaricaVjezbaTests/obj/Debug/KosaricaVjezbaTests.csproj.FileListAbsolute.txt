@@ -1,0 +1,7 @@
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezbaTests\bin\Debug\KosaricaVjezbaTests.dll
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezbaTests\bin\Debug\KosaricaVjezbaTests.pdb
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezbaTests\obj\Debug\KosaricaVjezbaTests.csprojResolveAssemblyReference.cache
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezbaTests\obj\Debug\KosaricaVjezbaTests.dll
+c:\users\barisic\documents\visual studio 2015\Projects\KosaricaVjezba\KosaricaVjezbaTests\obj\Debug\KosaricaVjezbaTests.pdb
+C:\Users\Barisic\Documents\Visual Studio 2015\Projects\KosaricaVjezba\KosaricaVjezbaTests\bin\Debug\KosaricaVjezba.exe
+C:\Users\Barisic\Documents\Visual Studio 2015\Projects\KosaricaVjezba\KosaricaVjezbaTests\bin\Debug\KosaricaVjezba.pdb

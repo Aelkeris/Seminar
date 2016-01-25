@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosaricaVjezba", "KosaricaVjezba\KosaricaVjezba.csproj", "{1FADF1D1-C0B4-4CBA-A76C-B87C951F4059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosaricaVjezbaTests", "KosaricaVjezbaTests\KosaricaVjezbaTests.csproj", "{00D4C861-2BE1-402B-A08E-8D0F762C4667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FADF1D1-C0B4-4CBA-A76C-B87C951F4059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FADF1D1-C0B4-4CBA-A76C-B87C951F4059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FADF1D1-C0B4-4CBA-A76C-B87C951F4059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FADF1D1-C0B4-4CBA-A76C-B87C951F4059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D4C861-2BE1-402B-A08E-8D0F762C4667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D4C861-2BE1-402B-A08E-8D0F762C4667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D4C861-2BE1-402B-A08E-8D0F762C4667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D4C861-2BE1-402B-A08E-8D0F762C4667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

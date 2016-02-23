@@ -1,0 +1,3 @@
+C:\Users\Barisic\Documents\Visual Studio 2015\Projects\Kalkulator\KalkulatorModeling\bin\Debug\Kalkulator.exe
+C:\Users\Barisic\Documents\Visual Studio 2015\Projects\Kalkulator\KalkulatorModeling\bin\Debug\Kalkulator.pdb
+C:\Users\Barisic\Documents\Visual Studio 2015\Projects\Kalkulator\KalkulatorModeling\obj\Debug\KalkulatorModeling.modelprojResolveAssemblyReference.cache

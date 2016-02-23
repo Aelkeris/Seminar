@@ -53,8 +53,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Poslovna Logika\KosaricaTests.cs" />
+    <Compile Include="Poslovna Logika\StavkaKosariceTests.cs" />
     <Compile Include="Poslovna Logika\VlasnikKosariceTests.cs" />
-    <Compile Include="ProgramTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

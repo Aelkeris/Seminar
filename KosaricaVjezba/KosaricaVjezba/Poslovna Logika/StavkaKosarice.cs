@@ -19,6 +19,7 @@ namespace KosaricaVjezba.Poslovna_Logika
         {
             opis = _opis;
             cijena = _cijena;
+            kolicina = 1;
         }
         public string VratiOpis()
         {

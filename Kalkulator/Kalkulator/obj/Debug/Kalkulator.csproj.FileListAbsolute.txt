@@ -1,0 +1,9 @@
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+c:\users\barisic\documents\visual studio 2015\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

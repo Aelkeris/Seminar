@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 namespace KosaricaVjezba.Poslovna_Logika
@@ -19,7 +17,7 @@ namespace KosaricaVjezba.Poslovna_Logika
             //metoda se mora pozvati nakon sto se status kosarice promijeni, kako bi se privatni boolean postavio u odgovarajuću vrijednost
             //ako je false, metode za brisanje i upisivanje rade
             //ako je true, metode za brisanje i upisivanje NE rade
-            if(status==StatusKosarice.Placena ||status==StatusKosarice.Stornirana)
+            if(status==StatusKosarice.Placena || status==StatusKosarice.Stornirana)
             {
                 zakljucano=true;
             }
@@ -38,7 +36,7 @@ namespace KosaricaVjezba.Poslovna_Logika
         }
         public decimal VratiVrijednost()
         {
-            //vraca vrijednost svih stavki u kosariciS
+            //vraca vrijednost svih stavki u kosarici
             decimal d=0;
             for(int i=0; i<stavke.Count;i++)
             {
@@ -47,7 +45,7 @@ namespace KosaricaVjezba.Poslovna_Logika
             return d;
             
         }
-        public String VratiID()
+        public string VratiID()
         {
             return vlasnik.VratiID();
         }
@@ -107,8 +105,7 @@ namespace KosaricaVjezba.Poslovna_Logika
             {
                 stavke.RemoveAt(indeks);
             }
-            else { };
-            
+            else { };   
         }
         public void ObrisiStavku(StavkaKosarice _stavka)
         {

@@ -1,0 +1,3 @@
+C:\Users\Barisic\documents\visual studio 2015\Projects\KosaricaVjezba\ModelingProject1\bin\Debug\KosaricaVjezba.exe
+C:\Users\Barisic\documents\visual studio 2015\Projects\KosaricaVjezba\ModelingProject1\bin\Debug\KosaricaVjezba.pdb
+C:\Users\Barisic\documents\visual studio 2015\Projects\KosaricaVjezba\ModelingProject1\obj\Debug\ModelingProject1.modelprojResolveAssemblyReference.cache

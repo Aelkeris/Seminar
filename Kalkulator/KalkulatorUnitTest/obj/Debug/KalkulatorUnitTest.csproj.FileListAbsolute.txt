@@ -1,0 +1,9 @@
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\bin\Debug\KalkulatorUnitTest.dll
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\bin\Debug\KalkulatorUnitTest.pdb
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\bin\Debug\Kalkulator.exe
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\bin\Debug\Kalkulator.pdb
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\obj\Debug\KalkulatorUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\obj\Debug\KalkulatorUnitTest.dll
+C:\Users\Barisic\documents\visual studio 2015\Projects\Kalkulator\KalkulatorUnitTest\obj\Debug\KalkulatorUnitTest.pdb
